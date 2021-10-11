@@ -12,8 +12,6 @@
 🎩 I am a startup enthusiast , love to talk about new projects and business ideas .</br> 
 👽 People consider me proactive, creative and a problem solver .</br>
 🍕 Always open to new programming projects.</br>
-</br>
-</br>
 
 ### 🌐 Social Links:
 
@@ -26,6 +24,9 @@ Wanna Talk? Hit me up here:
 [![Gmail Badge](https://img.shields.io/badge/-afa7789@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afa7789@gmail.com)](mailto:afa7789@gmail.com)
 [![Spotify Badge](https://img.shields.io/badge/-Brazilian%20Playlist-1DB954?style=flat-square&logo=Spotify&logoColor=white&link=[mailto:arthurabeilice@hotmail.com](https://open.spotify.com/playlist/1xfwH5ZljgSH40RFkGZkE4))](https://open.spotify.com/playlist/1xfwH5ZljgSH40RFkGZkE4)
 <!-- [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna) -->
+
+</br>
+</br>
 
 ## ⚡ Skills
 Computer Related Skills
