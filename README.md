@@ -15,7 +15,7 @@
 </br>
 </br>
 
-## 🌐 Social Links:
+### 🌐 Social Links:
 
 Wanna Talk? Hit me up here:
 
