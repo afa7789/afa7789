@@ -88,7 +88,9 @@ Operational Systems, Text Editor, Software, Solutions and Others...
  ||
 ![Redmine](https://img.shields.io/badge/-Redmine-black?style=for-the-badge&logo=redmine)
 ![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=trello)
+||
 ![Rocket Chat](https://img.shields.io/badge/-Rocket%20Chat-black?style=for-the-badge&logo=rocketdotchat)
+||
 ![Mautic](https://img.shields.io/badge/-Mautic-black?style=for-the-badge&logo=mautic)
  ||
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
