@@ -26,7 +26,6 @@ Wanna Talk? Hit me up here:
 <!-- [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna) -->
 
 </br>
-</br>
 
 ## ⚡ Skills
 Computer Related Skills
