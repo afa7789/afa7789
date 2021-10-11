@@ -67,41 +67,40 @@ Frameworks i worked with i know i can be of help
 Operational Systems, Text Editor, Software, Solutions and Others...
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
-![Macos](https://img.shields.io/badge/-Macos-black?style=for-the-badge&logo=apple)
-
+![Macos](https://img.shields.io/badge/-Macos-black?style=for-the-badge&logo=apple) || 
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-black?style=for-the-badge&logo=sublimetext)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=for-the-badge&logo=visualstudiocode)
 ![Vim](https://img.shields.io/badge/-Vim-black?style=for-the-badge&logo=vim)
-
+ ||
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
-
+ ||
 ![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-
+ ||
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Json](https://img.shields.io/badge/-Json-black?style=for-the-badge&logo=json)
-
+ ||
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-
+ ||
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
-
+ ||
 ![Redmine](https://img.shields.io/badge/-Redmine-black?style=for-the-badge&logo=redmine)
 ![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=trello)
 ![Rocket Chat](https://img.shields.io/badge/-Rocket%20Chat-black?style=for-the-badge&logo=rocketdotchat)
 ![Mautic](https://img.shields.io/badge/-Mautic-black?style=for-the-badge&logo=mautic)
-
+ ||
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=gitlab)
-
+ ||
 ![Diagrams](https://img.shields.io/badge/-Diagrams(UML)-black?style=for-the-badge&logo=diagrams.net)
-
+ ||
 ![Gimp](https://img.shields.io/badge/-Gimp-black?style=for-the-badge&logo=gimp)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=for-the-badge&logo=adobephotoshop)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-black?style=for-the-badge&logo=inkscape)
-
+ ||
 ![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-black?style=for-the-badge&logo=obsstudio)
 ![Audacity](https://img.shields.io/badge/-Audacity-black?style=for-the-badge&logo=audacity)
 
