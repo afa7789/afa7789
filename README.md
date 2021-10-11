@@ -1,7 +1,7 @@
 # 👋🕶️ [About me](https://github.com/afa7789)
 
 🐍 Arthur de Freitas Abeilice, the last of my name. </br>
-♍ - 1996.</br>
+♍ 1996.</br>
 💻 Computer Engineer bachelor's - [CEFET-MG Federal Center of Technoligical Education of Minas Gerais](https://www.cefetmg.br).</br>
 🏠 I’m currently living at Belo Horizonte - MG , Brazil 🇧🇷. <br/>
 👨‍💻 I’m a Full-Stack Developer .<br/>
