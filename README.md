@@ -1,10 +1,10 @@
 # 👋🕶️ [About me](https://github.com/afa7789)
 </br> 
 🐍 Arthur de Freitas Abeilice, the last of my name.</br>
-💻 Computer Engineer bachelor's - [ (CEFET-MG) Federal Center of Technoligical Education of Minas Gerais ](https://www.cefetmg.br/).</br>
+💻 Computer Engineer bachelor's - ![ (CEFET-MG) Federal Center of Technoligical Education of Minas Gerais ](https://www.cefetmg.br/).</br>
 🏠 I’m currently living at Belo Horizonte - MG , Brazil 🇧🇷. <br/>
 👨‍💻 I’m a Full-Stack Developer .<br/>
-💸 Previously Worked at  [ Codificar ](https://codificar.com.br) 🤑.</br>
+💸 Previously Worked at  ![ Codificar ](https://codificar.com.br) 🤑.</br>
 🔭 I’m looking to improve the world .<br/>
 🌎 I speak Portuguese, English, Spanish .</br>
 💬 Trying to learn Arabic and French . `not sure may change`<br/>
