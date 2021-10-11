@@ -74,11 +74,11 @@ Operational Systems, Text Editor, Software, Solutions and Others...
  ||
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=for-the-badge&logo=jupyter)
  ||
-![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)
+![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)||
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
- ||
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+||
 ![Json](https://img.shields.io/badge/-Json-black?style=for-the-badge&logo=json)
  ||
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
