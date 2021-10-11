@@ -31,8 +31,6 @@ Wanna Talk? Hit me up here:
 ## ⚡ Skills
 Computer Related Skills
 
-</br>
-
 ### ⌨️ Programming Languages
 In order of knowledge/priority
 
