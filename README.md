@@ -26,15 +26,12 @@ Wanna Talk? Hit me up here:
 [![Gmail Badge](https://img.shields.io/badge/-afa7789@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afa7789@gmail.com)](mailto:afa7789@gmail.com)
 [![Spotify Badge](https://img.shields.io/badge/-Brazilian%20Playlist-1DB954?style=flat-square&logo=Spotify&logoColor=white&link=[mailto:arthurabeilice@hotmail.com](https://open.spotify.com/playlist/1xfwH5ZljgSH40RFkGZkE4))](https://open.spotify.com/playlist/1xfwH5ZljgSH40RFkGZkE4)
 <!-- [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna) -->
-</br>
 
 ## ⚡ Skills
 Computer Related Skills
 
 ### ⌨️ Programming Languages
 In order of knowledge/priority
-
-</br>
 
 ![Bash](https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=gnubash)
 ![Golang](https://img.shields.io/badge/-Golang-black?style=for-the-badge&logo=Go)
@@ -53,12 +50,8 @@ In order of knowledge/priority
 ![MarkDown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=markdown)
 ![Latex](https://img.shields.io/badge/-Latex-black?style=for-the-badge&logo=Latex)
 
-</br>
-
 ### 🧠 Frameworks
 Frameworks i worked with i know i can be of help
-
-</br>
 
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel)
 ![VueJs](https://img.shields.io/badge/-VueJs-black?style=for-the-badge&logo=vuedotjs)
@@ -69,12 +62,8 @@ Frameworks i worked with i know i can be of help
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logo=WordPress)
 
-</br>
-
 ### 🛠️ Tools
 Operational Systems, Text Editor, Software, Solutions and Others...
-
-</br>
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 ![Macos](https://img.shields.io/badge/-Macos-black?style=for-the-badge&logo=apple)
@@ -115,17 +104,11 @@ Operational Systems, Text Editor, Software, Solutions and Others...
 ![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-black?style=for-the-badge&logo=obsstudio)
 ![Audacity](https://img.shields.io/badge/-Audacity-black?style=for-the-badge&logo=audacity)
 
-</br>
-
 ### ⭐ Flavors
-
-</br>
 
 ![Porsche](https://img.shields.io/badge/-Porsche-black?style=for-the-badge&logo=porsche)
 ![Brave](https://img.shields.io/badge/-Brave-black?style=for-the-badge&logo=Brave)
 ![DuckDuckGo](https://img.shields.io/badge/-Duck%20Duck%20Go-black?style=for-the-badge&logo=duckduckgo)
-
-</br>
 
 ### 🧿 Git Stats
 
