@@ -111,6 +111,7 @@ Operational Systems, Text Editor, Software, Solutions and Others...
 ![Porsche](https://img.shields.io/badge/-Porsche-black?style=for-the-badge&logo=porsche)
 ![Brave](https://img.shields.io/badge/-Brave-black?style=for-the-badge&logo=Brave)
 ![DuckDuckGo](https://img.shields.io/badge/-Duck%20Duck%20Go-black?style=for-the-badge&logo=duckduckgo)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin%20Go-black?style=for-the-badge&logo=bitcoin)
 
 ### 🧿 Git Stats
 
