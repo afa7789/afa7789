@@ -19,10 +19,10 @@
 Wanna Talk? Hit me up here:
 
 [![Hotmail Badge](https://img.shields.io/badge/-arthurabeilice@hotmail.com-darkblue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:arthurabeilice@hotmail.com)](mailto:arthurabeilice@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-afa7789@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afa7789@gmail.com)](mailto:afa7789@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-arthur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-abeilice/)](https://www.linkedin.com/in/arthur-abeilice/)
 [![Instagram Badge](https://img.shields.io/badge/-afabeilice-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/afabeilice/)](https://instagram.com/afabeilice)
 [![Medium Badge](https://img.shields.io/badge/-@afa7789-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@afa7789/)](https://medium.com/@afa7789)
-[![Gmail Badge](https://img.shields.io/badge/-afa7789@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afa7789@gmail.com)](mailto:afa7789@gmail.com)
 [![Spotify Badge](https://img.shields.io/badge/-Brazilian%20Playlist-1DB954?style=flat-square&logo=Spotify&logoColor=white&link=[mailto:arthurabeilice@hotmail.com](https://open.spotify.com/playlist/1xfwH5ZljgSH40RFkGZkE4))](https://open.spotify.com/playlist/1xfwH5ZljgSH40RFkGZkE4)
 <!-- [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna) -->
 
