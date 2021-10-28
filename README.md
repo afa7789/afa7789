@@ -4,7 +4,7 @@
 ♍ 1996.</br>
 💻 Computer Engineer bachelor's - [CEFET-MG Federal Center of Technoligical Education of Minas Gerais](https://www.cefetmg.br).</br>
 🏠 I’m currently living at Belo Horizonte - MG , Brazil 🇧🇷. <br/>
-👨‍💻 I’m a Full-Stack Developer .<br/>
+👨‍💻 I’m a Software Engineer , that too work as Full-Stack Developer .<br/>
 💸 Previously Worked at [Codificar](https://codificar.com.br).</br>
 💳 Now boarding the [Get It LLC](https://get.it) developers team, as Software Engineer.</br>
 🔭 I’m looking to improve the world .<br/>
