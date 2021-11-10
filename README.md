@@ -121,6 +121,6 @@ Operational Systems, Text Editor, Software, Solutions and Others...
 Don't notice, i've way more commits on companies private git.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=afa7789&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afa7789&hide=jupyter%20notebook,html&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afa7789&hide=python,jupyter%20notebook,html&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=afa7789.afa7789)
