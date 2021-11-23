@@ -6,7 +6,7 @@
 🏠 I’m currently living at Belo Horizonte - MG , Brazil 🇧🇷. <br/>
 👨‍💻 I’m a Software Engineer , that too work as Full-Stack Developer .<br/>
 💸 Previously Worked at [Codificar](https://codificar.com.br).</br>
-💳 Now boarding the [Get It LLC](https://get.it) developers team, as Software Engineer.</br>
+💳 Now on board of [Get It LLC](https://get.it) developers team, as Software Engineer, working with Golang and Micro-Services.</br>
 🔭 I’m looking to improve the world .<br/>
 👁️‍🗨️ I speak Portuguese, English, Spanish .</br>
 💬 Trying to learn Arabic and French . `not sure may change`<br/>
