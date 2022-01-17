@@ -12,7 +12,7 @@
 💬 Trying to learn Arabic and French . `not sure may change`<br/>
 😎 My hobbies are 📖📚 reading and 🍳🔪 cooking.</br>
 🎩 I am a startup enthusiast , love to talk about new projects and business ideas .</br> 
-👽 People consider me proactive, creative and a problem solver .</br>
+👽 People consider me a proactive, creative guy and a problem solver .</br>
 🍕 Always open to new programming projects.</br>
 
 ### 🌐 Social Links:
