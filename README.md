@@ -108,8 +108,10 @@ Operational Systems, Text Editor, Software, Solutions and Others...
 ![Audacity](https://img.shields.io/badge/-Audacity-black?style=for-the-badge&logo=audacity)
 
 ### ⭐ Flavors
+Just stuff I like overall
 
 ![Porsche](https://img.shields.io/badge/-Porsche-black?style=for-the-badge&logo=porsche)
+![Jeep](https://img.shields.io/badge/-Jeep-black?style=for-the-badge&logo=jeep)
 ![Brave](https://img.shields.io/badge/-Brave-black?style=for-the-badge&logo=Brave)
 ![DuckDuckGo](https://img.shields.io/badge/-Duck%20Duck%20Go-black?style=for-the-badge&logo=duckduckgo)
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-black?style=for-the-badge&logo=bitcoin)
