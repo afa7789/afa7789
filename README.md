@@ -113,7 +113,7 @@ Operational Systems, Text Editor, Software, Solutions and Others...
 ![Brave](https://img.shields.io/badge/-Brave-black?style=for-the-badge&logo=Brave)
 ![DuckDuckGo](https://img.shields.io/badge/-Duck%20Duck%20Go-black?style=for-the-badge&logo=duckduckgo)
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-black?style=for-the-badge&logo=bitcoin)
-
+![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=for-the-badge&logo=Ethereum)
 
 
 ### 🧿 Git Stats
