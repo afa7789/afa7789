@@ -2,16 +2,16 @@
 
 🐍 Arthur de Freitas Abeilice, the last of my name. </br>
 ♍ 1996.</br>
-💻 Computer Engineer bachelor's - [CEFET-MG Federal Center of Technoligical Education of Minas Gerais](https://www.cefetmg.br).</br>
+💻 Computer Engineer bachelor - [CEFET-MG Federal Center of Technoligical Education of Minas Gerais](https://www.cefetmg.br).</br>
 🏠 I’m currently living at Belo Horizonte - MG , Brazil 🇧🇷. <br/>
-👨‍💻 I’m a Software Engineer , Full-Stack Developer.<br/>
+👨‍💻 I’m a Software Engineer , Full-Stack & web3 Developer.<br/>
 💸 Previously Worked at [Codificar](https://codificar.com.br).</br>
 💳 Now on board of [Get It LLC](https://get.it) developers team, as Software Engineer, working with Golang and Micro-Services.</br>
-🔭 I’m looking to improve the world .<br/>
+🔭 Researching web3, smart contracts and blockchain.<br/>
 👁️‍🗨️ I speak Portuguese, English, Spanish .</br>
 💬 Trying to learn Arabic and French . `not sure may change`<br/>
 😎 My hobbies are 📖📚 reading and 🍳🔪 cooking.</br>
-🎩 I am a startup enthusiast , love to talk about new projects and business ideas .</br> 
+🎩 I am a startup enthusiast, love to talk about new projects and business ideas .</br> 
 👽 People consider me a proactive, creative guy and a problem solver .</br>
 🍕 Always open to new programming projects.</br>
 
