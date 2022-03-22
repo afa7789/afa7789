@@ -5,9 +5,9 @@
 💻 Computer Engineer bachelor - [CEFET-MG Federal Center of Technoligical Education of Minas Gerais](https://www.cefetmg.br).</br>
 🏠 I’m currently living at Belo Horizonte - MG , Brazil 🇧🇷. <br/>
 👨‍💻 I’m a Computer Engineer, Full-Stack & web3 Developer.<br/>
-💸 Previously Worked at [Codificar](https://codificar.com.br).</br>
-💳 Now on board of [Get It LLC](https://get.it) developers team, as Software Engineer, working with Golang and Micro-Services.</br>
-🔭 Researching web3, smart contracts and blockchain.<br/>
+💸 Previously Worked at [Codificar](https://codificar.com.br) and [Get It LLC](https://get.it) .</br>
+<!-- 💳 Now on board of developers team, as Software Engineer, working with Golang and Micro-Services.</br> -->
+🔭 Now I'm researching web3, smart contracts and blockchain.<br/>
 👁️‍🗨️ I speak Portuguese, English, Spanish .</br>
 💬 Trying to learn Arabic and French . `not sure may change`<br/>
 😎 My hobbies are 📖📚 reading and 🍳🔪 cooking.</br>
