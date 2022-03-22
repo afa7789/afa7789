@@ -6,7 +6,6 @@
 🏠 I’m currently living at Belo Horizonte - MG , Brazil 🇧🇷. <br/>
 👨‍💻 I’m a Computer Engineer, Full-Stack & web3 Developer.<br/>
 💸 Previously Worked at [Codificar](https://codificar.com.br) and [Get It LLC](https://get.it) .</br>
-<!-- 💳 Now on board of developers team, as Software Engineer, working with Golang and Micro-Services.</br> -->
 🔭 Now I'm researching web3, smart contracts and blockchain.<br/>
 👁️‍🗨️ I speak Portuguese, English, Spanish .</br>
 💬 Trying to learn Arabic and French . `not sure may change`<br/>
@@ -14,6 +13,7 @@
 🎩 I am a startup enthusiast, love to talk about new projects and business ideas .</br> 
 👽 People consider me a proactive, creative guy and a problem solver .</br>
 🍕 Always open to new programming projects.</br>
+<!-- 💳 Now on board of developers team, as Software Engineer, working with Golang and Micro-Services.</br> -->
 
 ### 🌐 Social Links:
 
