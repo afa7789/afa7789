@@ -95,12 +95,14 @@ Operational Systems, Text Editor, Software, Solutions and Others...
 ![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=trello)
 ||
 ![Rocket Chat](https://img.shields.io/badge/-Rocket%20Chat-black?style=for-the-badge&logo=rocketdotchat)
+![Slack](https://img.shields.io/badge/-Slack%20Chat-black?style=for-the-badge&logo=slack)
 ||
 ![Mautic](https://img.shields.io/badge/-Mautic-black?style=for-the-badge&logo=mautic)
  ||
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=for-the-badge&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket%20Chat-black?style=for-the-badge&logo=bitbucket)
  ||
 ![Diagrams](https://img.shields.io/badge/-Diagrams(UML)-black?style=for-the-badge&logo=diagrams.net)
  ||
