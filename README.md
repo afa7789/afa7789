@@ -53,14 +53,16 @@ In order of knowledge/priority
 ![Latex](https://img.shields.io/badge/-Latex-black?style=for-the-badge&logo=Latex)
 
 ### 🧠 Frameworks
-Frameworks i worked with i know i can be of help
+Frameworks I worked with that I know I can be of help
 
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel)
 ![VueJs](https://img.shields.io/badge/-VueJs-black?style=for-the-badge&logo=vuedotjs)
+![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=for-the-badge&logo=nuxtdotjs)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=orange)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react)
 ![Jquery](https://img.shields.io/badge/-Jquery-black?style=for-the-badge&logo=jquery)
+![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=orange)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logo=WordPress)
 
@@ -79,10 +81,12 @@ Operational Systems, Text Editor, Software, Solutions and Others...
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![CouchDB](https://img.shields.io/badge/-Couchdb-black?style=for-the-badge&logo=apachecouchdb)
 ||
 ![Json](https://img.shields.io/badge/-Json-black?style=for-the-badge&logo=json)
  ||
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=for-the-badge&logo=kubernetes)
  ||
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
