@@ -44,7 +44,7 @@ In order of knowledge/priority
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=Swift)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
-![Kotlin](https://img.shields.io/badge/-kotlin-black?style=for-the-badge&logo=kotlin)![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
+![Kotlin](https://img.shields.io/badge/-kotlin-black?style=for-the-badge&logo=kotlin)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
