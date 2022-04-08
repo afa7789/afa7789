@@ -55,17 +55,17 @@ In order of knowledge/priority
 ### 🧠 Frameworks
 Frameworks I worked with that I know I can be of help
 
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel)
 ![VueJs](https://img.shields.io/badge/-VueJs-black?style=for-the-badge&logo=vuedotjs)
-![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=for-the-badge&logo=nuxtdotjs)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel)
+![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=for-the-badge&logo=nuxtdotjs)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=orange)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react)
 ![Jquery](https://img.shields.io/badge/-Jquery-black?style=for-the-badge&logo=jquery)
-![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=orange)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logo=WordPress)
+![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=orange)
 
 ### 🛠️ Tools
 Operational Systems, Text Editor, Software, Solutions and Others...
