@@ -33,24 +33,25 @@ Wanna Talk? Hit me up here:
 Computer Related Skills
 
 ### ⌨️ Programming Languages
-In order of knowledge/priority
+In order of knowledge/priority, only languages I have worked with on work enviroment, doesn't mean I'm a master of it.
 
 ![Bash](https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=gnubash)
-![Golang](https://img.shields.io/badge/-Golang-black?style=for-the-badge&logo=Go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=for-the-badge&logo=solidity)
-![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=Swift)
-![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
-![Kotlin](https://img.shields.io/badge/-kotlin-black?style=for-the-badge&logo=kotlin)
-![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
+![MarkDown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=markdown)
+![Golang](https://img.shields.io/badge/-Golang-black?style=for-the-badge&logo=Go)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
-![MarkDown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=markdown)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=for-the-badge&logo=solidity)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
 ![Latex](https://img.shields.io/badge/-Latex-black?style=for-the-badge&logo=Latex)
+![Kotlin](https://img.shields.io/badge/-kotlin-black?style=for-the-badge&logo=kotlin)
+![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=Swift)
+
 
 ### 🧠 Frameworks
 Frameworks I worked with that I know I can be of help
