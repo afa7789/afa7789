@@ -33,7 +33,7 @@ Wanna Talk? Hit me up here:
 Computer Related Skills
 
 ### ⌨️ Programming Languages
-In order of knowledge/priority, only languages I have worked with on work enviroment, doesn't mean I'm a master of it.
+In order of knowledge/priority.
 
 ![Bash](https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=gnubash)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
@@ -52,6 +52,7 @@ In order of knowledge/priority, only languages I have worked with on work enviro
 ![Kotlin](https://img.shields.io/badge/-kotlin-black?style=for-the-badge&logo=kotlin)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=Swift)
 
+Languages that I have worked with on work enviroment, doesn't mean I am a master of those, listed from more to less experience(Left to right).
 
 ### 🧠 Frameworks
 Frameworks I worked with that I know I can be of help
@@ -61,6 +62,7 @@ Frameworks I worked with that I know I can be of help
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=for-the-badge&logo=nuxtdotjs)
+![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=orange)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react)
 ![Jquery](https://img.shields.io/badge/-Jquery-black?style=for-the-badge&logo=jquery)
