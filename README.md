@@ -4,9 +4,10 @@
 ♍ 1996.</br>
 💻 Computer Engineer bachelor - [CEFET-MG Federal Center of Technoligical Education of Minas Gerais](https://www.cefetmg.br).</br>
 🏠 I’m currently living at Belo Horizonte - MG , Brazil 🇧🇷. <br/>
-👨‍💻 I’m a Computer Engineer, Full-Stack & web3 Developer.<br/>
+👨‍💻 I’m a Computer Engineer, Full-Stack & Web3 Developer.<br/>
+💼 Now on board of [Tally](https://tally.xyz) as Backend Engineer.</br>
 💸 Previously Worked at [Codificar](https://codificar.com.br) and [Get It LLC](https://get.it) .</br>
-🔭 Now I'm researching web3, smart contracts and blockchain.<br/>
+🔭 Now I'm researching web3, blockchain & WASM.<br/>
 👁️‍🗨️ I speak Portuguese, English, Spanish .</br>
 💬 Trying to learn Arabic and French . `not sure may change`<br/>
 😎 My hobbies are 📖📚 reading and 🍳🔪 cooking.</br>
