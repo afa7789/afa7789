@@ -65,7 +65,7 @@ Frameworks I worked with that I know I can be of help
 ![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=for-the-badge&logo=nuxtdotjs)
 ![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=orange)
-![HardHat](https://img.shields.io/badge/-HardHat-black?style=for-the-badge&logo=hardhat&logoColor=yellow)
+![HardHat](https://img.shields.io/badge/-HardHat-black?style=for-the-badge&logo=ethereum&logoColor=yellow)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react)
 ![Jquery](https://img.shields.io/badge/-Jquery-black?style=for-the-badge&logo=jquery)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
