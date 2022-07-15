@@ -3,7 +3,7 @@
 🐍 Arthur de Freitas Abeilice, the last of my name. </br>
 ♍ 1996.</br>
 💻 Computer Engineer bachelor - [CEFET-MG Federal Center of Technoligical Education of Minas Gerais](https://www.cefetmg.br).</br>
-🏠 I’m currently living at Belo Horizonte - MG , Brazil 🇧🇷. <br/>
+🏠 Currently living at __Belo Horizonte - MG , Brazil__ 🇧🇷. <br/>
 👨‍💻 I’m a Computer Engineer, Full-Stack & Web3 Developer.<br/>
 💼 Now on board of [Tally](https://tally.xyz) as Backend Engineer, ~or fullstack if they don't notice I'm doing stuff at the front when possible~.</br>
 💸 Previously Worked at [Codificar](https://codificar.com.br) and [Get It LLC](https://get.it) .</br>
@@ -13,7 +13,7 @@
 😎 My hobbies are 📖📚 reading and 🍳🔪 cooking.</br>
 🎩 I am a startup enthusiast, love to talk about new projects and business ideas .</br> 
 👽 People consider me a proactive, creative guy and a problem solver .</br>
-🍕 Always open to new programming projects.</br>
+🍕 ~not~ Always open to new programming projects.</br>
 <!-- 💳 Now on board of developers team, as Software Engineer, working with Golang and Micro-Services.</br> -->
 
 ### 🌐 Social Links:
@@ -65,6 +65,7 @@ Frameworks I worked with that I know I can be of help
 ![Nuxt](https://img.shields.io/badge/-Nuxt-black?style=for-the-badge&logo=nuxtdotjs)
 ![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=orange)
+![HardHat](https://img.shields.io/badge/-HardHat-black?style=for-the-badge&logo=hardhat&logoColor=yellow)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react)
 ![Jquery](https://img.shields.io/badge/-Jquery-black?style=for-the-badge&logo=jquery)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
