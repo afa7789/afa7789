@@ -136,5 +136,5 @@ Don't notice, i've way more commits on companies private git.
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=afa7789&count_private=true&show_icons=true&include_all_commits=true&exclude_repo=meow-au-cefet-games,college-python-showcase,TP_JogosDigitais,Compiladores,laravue-login-template,cefet-games-classes)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afa7789t&exclude_repo=meow-au-cefet-games,college-python-showcase,TP_JogosDigitais,Compiladores,laravue-login-template,cefet-games-classes&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afa7789&exclude_repo=meow-au-cefet-games,college-python-showcase,TP_JogosDigitais,Compiladores,laravue-login-template,cefet-games-classes&layout=compact)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=afa7789.afa7789)
