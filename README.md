@@ -29,12 +29,21 @@ Wanna Talk? Hit me up here:
 <!-- [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna) -->
 
 </br>
+<details>
+ <summary>
+ 
+  ## ⚡ Skills</h2>
+  Computer Related Skills
+  
+ </summary>
+ <details>
+ <summary>
+ 
+ ### ⌨️ Programming Languages</h3>
+ In order of knowledge/priority.
+ 
+ </summary>
 
-## ⚡ Skills
-Computer Related Skills
-
-### ⌨️ Programming Languages
-In order of knowledge/priority.
 
 ![Bash](https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=gnubash)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
@@ -54,9 +63,17 @@ In order of knowledge/priority.
 ![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=Swift)
 
 Languages that I have worked with on work enviroment, doesn't mean I am a master of those, listed from more to less experience(Left to right).
+</details>
 
-### 🧠 Frameworks
-Frameworks I worked with that I know I can be of help
+ <details>
+ <summary>
+ 
+ ### 🧠 Frameworks
+ Frameworks I worked with that I know I can be of help
+ 
+ </summary>
+
+
 
 ![VueJs](https://img.shields.io/badge/-VueJs-black?style=for-the-badge&logo=vuedotjs)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
@@ -71,9 +88,16 @@ Frameworks I worked with that I know I can be of help
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logo=WordPress)
 ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=django&logoColor=orange)
+</details>
+
+
+ <details>
+ <summary>
 
 ### 🛠️ Tools
 Operational Systems, Text Editor, Software, Solutions and Others...
+
+</summary>
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
 ![Macos](https://img.shields.io/badge/-Macos-black?style=for-the-badge&logo=apple) || 
@@ -118,17 +142,9 @@ Operational Systems, Text Editor, Software, Solutions and Others...
  ||
 ![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-black?style=for-the-badge&logo=obsstudio)
 ![Audacity](https://img.shields.io/badge/-Audacity-black?style=for-the-badge&logo=audacity)
+</details>
 
-### ⭐ Flavors
-Just stuff I like overall
-
-![Porsche](https://img.shields.io/badge/-Porsche-black?style=for-the-badge&logo=porsche)
-![Jeep](https://img.shields.io/badge/-Jeep-black?style=for-the-badge&logo=jeep)
-![Brave](https://img.shields.io/badge/-Brave-black?style=for-the-badge&logo=Brave)
-![DuckDuckGo](https://img.shields.io/badge/-Duck%20Duck%20Go-black?style=for-the-badge&logo=duckduckgo)
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-black?style=for-the-badge&logo=bitcoin)
-![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=for-the-badge&logo=Ethereum)
-
+</details>
 
 ### 🧿 Git Stats
 
@@ -138,3 +154,10 @@ Don't notice, i've way more commits on companies private git.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=afa7789&count_private=true&show_icons=true&include_all_commits=true&exclude_repo=meow-au-cefet-games,college-python-showcase,TP_JogosDigitais,Compiladores,laravue-login-template,cefet-games-classes)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afa7789&exclude_repo=meow-au-cefet-games,college-python-showcase,TP_JogosDigitais,Compiladores,laravue-login-template,cefet-games-classes&layout=compact)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=afa7789.afa7789)
+
+### ⭐ Flavors
+
+![Brave](https://img.shields.io/badge/-Brave-black?style=for-the-badge&logo=Brave)
+![DuckDuckGo](https://img.shields.io/badge/-Duck%20Duck%20Go-black?style=for-the-badge&logo=duckduckgo)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-black?style=for-the-badge&logo=bitcoin)
+![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=for-the-badge&logo=Ethereum)
