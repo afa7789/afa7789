@@ -16,6 +16,8 @@
 🍕 ~not~ Always open to new programming projects.</br>
 <!-- 💳 Now on board of developers team, as Software Engineer, working with Golang and Micro-Services.</br> -->
 
+-----------------------------
+
 ### 🌐 Social Links:
 
 Wanna Talk? Hit me up here:
@@ -28,22 +30,23 @@ Wanna Talk? Hit me up here:
 [![Spotify Badge](https://img.shields.io/badge/-Brazilian%20Playlist-1DB954?style=flat-square&logo=Spotify&logoColor=white&link=[mailto:arthurabeilice@hotmail.com](https://open.spotify.com/playlist/1xfwH5ZljgSH40RFkGZkE4))](https://open.spotify.com/playlist/1xfwH5ZljgSH40RFkGZkE4)
 <!-- [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna) -->
 
-</br>
+-----------------------------
+
 <details>
  <summary>
  
-  ## ⚡ Skills</h2>
+  <h2>⚡ Skills</h2>
+  
   Computer Related Skills
   
  </summary>
  <details>
  <summary>
  
- ### ⌨️ Programming Languages</h3>
+ <h3> ⌨️ Programming Languages</h3>
  In order of knowledge/priority.
  
  </summary>
-
 
 ![Bash](https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=gnubash)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
@@ -68,12 +71,10 @@ Languages that I have worked with on work enviroment, doesn't mean I am a master
  <details>
  <summary>
  
- ### 🧠 Frameworks
+ <h3> 🧠 Frameworks </h3>
  Frameworks I worked with that I know I can be of help
  
  </summary>
-
-
 
 ![VueJs](https://img.shields.io/badge/-VueJs-black?style=for-the-badge&logo=vuedotjs)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
@@ -94,7 +95,7 @@ Languages that I have worked with on work enviroment, doesn't mean I am a master
  <details>
  <summary>
 
-### 🛠️ Tools
+<h3> 🛠️ Tools </h3>
 Operational Systems, Text Editor, Software, Solutions and Others...
 
 </summary>
@@ -146,6 +147,8 @@ Operational Systems, Text Editor, Software, Solutions and Others...
 
 </details>
 
+--------------------------------------
+
 ### 🧿 Git Stats
 
 Don't notice, i've way more commits on companies private git.
@@ -154,6 +157,8 @@ Don't notice, i've way more commits on companies private git.
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=afa7789&count_private=true&show_icons=true&include_all_commits=true&exclude_repo=meow-au-cefet-games,college-python-showcase,TP_JogosDigitais,Compiladores,laravue-login-template,cefet-games-classes)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afa7789&exclude_repo=meow-au-cefet-games,college-python-showcase,TP_JogosDigitais,Compiladores,laravue-login-template,cefet-games-classes&layout=compact)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=afa7789.afa7789)
+
+--------------------------------------
 
 ### ⭐ Flavors
 
