@@ -9,7 +9,7 @@
 💸 Previously Worked at [Codificar](https://codificar.com.br) and [Get It LLC](https://get.it) .</br>
 🔭 Topics I look to research in future WASM and lightning nodes.<br/>
 👁️‍🗨️ I speak Portuguese, English, Spanish .</br>
-💬 Trying to learn Arabic. `لسَّلَامُ عَلَيْكُمْ`<br/>
+💬 Trying to learn Arabic. `لسَّلَامُ عَلَيْكُمْ` and ukrainian `привіт`<br/>
 😎 My hobbies are 📖📚 reading and 🍳🔪 cooking.</br>
 🎩 I am a startup enthusiast, love to talk about new projects and business ideas .</br> 
 👽 People consider me a proactive, creative guy and a problem solver .</br>
