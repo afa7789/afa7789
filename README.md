@@ -5,7 +5,7 @@
 💻 Computer Engineer bachelor - [CEFET-MG Federal Center of Technoligical Education of Minas Gerais](https://www.cefetmg.br).</br>
 🏠 Born at __Belo Horizonte - MG , Brazil__ 🇧🇷. <br/>
 👨‍💻 I’m a Computer Engineer, Full-Stack & Blockchain Developer.<br/>
-<!--  💼 Now on board of [Tally](https://tally.xyz) as Backend Engineer, ~or fullstack if they don't notice I'm doing stuff at the front when possible~.</br> -->
+💼 Now on board of [Gateway](https://gateway.fm) as Blockchain Engineer.</br>
 💸 Previously Worked at [Codificar](https://codificar.com.br), [Get It LLC](https://get.it) and [Tally](https://tally.xyz).</br>
 🔭 Topics I look to research in future WASM and lightning nodes.<br/>
 👁️‍🗨️ I speak Portuguese, English, Spanish .</br>
