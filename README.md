@@ -7,11 +7,11 @@
 👨‍💻 I’m a Computer Engineer, Full-Stack & Blockchain Developer.<br/>
 🤖 Looking for new Roles!
 💸 Previously Worked at [Codificar](https://codificar.com.br), [Get It LLC](https://get.it), [Tally](https://tally.xyz) and [Gateway](https://gateway.fm).</br>
-🔭 Topics I look to research in future WASM and lightning nodes.<br/>
+🔭 My areas of interest are Smart contracts, Blockcahin, Lighting and P2P.<br/>
 👁️‍🗨️ I speak Portuguese, English, Spanish .</br>
-😎 My hobbies are 📖📚 reading and 🍳🔪 cooking.</br>
-🎩 I am a startup enthusiast, love to talk about new projects and business ideas .</br> 
-👽 People consider me a proactive, creative guy and a problem solver .</br>
+😎 My hobbies are 📖📚 reading and 🍳🔪 cooking. I do also code a bit.</br>
+🎩 I am a startup enthusiast, love to talk about new projects and business ideas.</br> 
+👽 People consider me a proactive, creative guy and a problem solver.</br>
 🍕 Always open to new programming projects.</br>
 <!--  💬 Learning Arabic. `لسَّلَامُ عَلَيْكُمْ` and ukrainian `привіт`<br/>-->
 <!-- 💼 Now on board of as Blockchain Engineer.</br> -->
