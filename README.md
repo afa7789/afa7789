@@ -30,6 +30,8 @@ int main() { binary_to_text(); return 0; }
 
 ## ⚡ Skills
 
+*"You can check my pinned repositories for code samples — I keep my most up-to-date and favorite projects there."*  
+
 ### ⌨️ Programming Languages
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
