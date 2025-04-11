@@ -19,11 +19,12 @@ int main() { binary_to_text(); return 0; }
 💻 Computer Engineer bachelor - [CEFET-MG](https://www.cefetmg.br).  
 🏠 Born at __Belo Horizonte - MG, Brazil__ 🇧🇷.  
 👨‍💻 Full-Stack & Blockchain Developer.  
-🍕 Looking for new roles!  
 💸 Previously worked at [Codificar](https://codificar.com.br), [Get It LLC](https://get.it), [Tally](https://tally.xyz), and [Gateway](https://gateway.fm).  
 🔭 Areas of interest: Smart contracts, Blockchain, Lightning, P2P.  
 👁️‍🗨️ Languages: Portuguese (native), English (fluent), Spanish.  
-😎 Hobbies: 📖📚 Reading and 🍳🔪 Cooking (I know how to make Pizza).  
+🍕 Looking for new roles!  
+
+<!-- 😎 Hobbies: 📖📚 Reading and 🍳🔪 Cooking (I know how to make Pizza). -->
 <!--  💬 Learning Arabic. `لسَّلَامُ عَلَيْكُمْ` and ukrainian `привіт`<br/>-->
 <!-- 💼 Now on board of as Blockchain Engineer.</br> -->
 <pre>01100010 01110101 01111001 00100000 01100010 01101001 01110100 01100011 01101111 01101001 01101110</pre>
