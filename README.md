@@ -49,15 +49,7 @@ int main() { binary_to_text(); return 0; }
 ![OBS Studio](https://img.shields.io/badge/-OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![Audacity](https://img.shields.io/badge/-Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 
-## 🧿 Git Stats
-
-Don't notice, I've way more commits on companies private git.
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=afa7789&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afa7789&exclude_repo=meow-au-cefet-games,college-python-showcase,TP_JogosDigitais,Compiladores,laravue-login-template,cefet-games-classes&layout=compact)
-
---------------------------------------
-### 📍 Connect With Me
+## 📍 Connect With Me
 
 [![Email](https://img.shields.io/badge/-Email-2B3137?style=for-the-badge&logo=protonmail)](mailto:arthurabelice@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-abeilice/)
@@ -73,4 +65,13 @@ Don't notice, I've way more commits on companies private git.
 ![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=for-the-badge&logo=Ethereum)
 ![Monero](https://img.shields.io/badge/-Monero-black?style=for-the-badge&logo=monero&logoColor=white)
 -->
+---------------------
+
+### 🧿 Git Stats
+
+Don't notice, I've way more commits on companies private git.
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=afa7789&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afa7789&exclude_repo=meow-au-cefet-games,college-python-showcase,TP_JogosDigitais,Compiladores,laravue-login-template,cefet-games-classes&layout=compact)
+
 
