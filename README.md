@@ -18,7 +18,7 @@ int main() { binary_to_text(); return 0; }
 ♍ 1996.  
 💻 Computer Engineer bachelor - [CEFET-MG](https://www.cefetmg.br).  
 🏠 Born at __Belo Horizonte - MG, Brazil__ 🇧🇷.  
-👨‍💻 Full-Stack & Blockchain Developer.  
+👨‍💻  Backend ~Full-Stack~ & Blockchain Developer.  
 💸 Previously worked at [Codificar](https://codificar.com.br), [Get It LLC](https://get.it), [Tally](https://tally.xyz), and [Gateway](https://gateway.fm).  
 🔭 Areas of interest: Smart contracts, Blockchain, Lightning, P2P.  
 👁️‍🗨️ Languages: Portuguese (native), English (fluent), Spanish.  
