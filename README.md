@@ -1,4 +1,4 @@
-# 🐍 Arthur de Freitas Abeilice :)
+# 😎 Arthur de Freitas Abeilice :)
 **Computer Engineer | Blockchain Enthusiast | the last of my name**
 <!--
 ```c
