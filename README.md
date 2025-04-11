@@ -22,7 +22,7 @@ int main() { binary_to_text(); return 0; }
 💸 Previously worked at [Codificar](https://codificar.com.br), [Get It LLC](https://get.it), [Tally](https://tally.xyz), and [Gateway](https://gateway.fm).  
 🔭 Areas of interest: Smart contracts, Blockchain, Lightning, P2P.  
 👁️‍🗨️ Languages: Portuguese (native), English (fluent), Spanish.  
-🍕 Looking for new roles!  
+🍕 Open for new roles :O  
 
 <!-- 😎 Hobbies: 📖📚 Reading and 🍳🔪 Cooking (I know how to make Pizza). -->
 <!--  💬 Learning Arabic. `لسَّلَامُ عَلَيْكُمْ` and ukrainian `привіт`<br/>-->
