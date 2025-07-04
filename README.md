@@ -1,6 +1,4 @@
 # 😎 Arthur de Freitas Abeilice :)
-[my links](https://afa7789.github.io/links/)
-
 **Computer Engineer | Blockchain Enthusiast | the last of my name**
 <!--
 ```c
@@ -17,6 +15,8 @@ void binary_to_text() {
 int main() { binary_to_text(); return 0; }
 ```
 -->
+[my links](https://afa7789.github.io/links/)
+
 ♍ 1996.  
 💻 Computer Engineer bachelor - [CEFET-MG](https://www.cefetmg.br).  
 🏠 Born at __Belo Horizonte - MG, Brazil__ 🇧🇷.  
