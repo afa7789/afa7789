@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> ARTHUR'S LINKS </title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚡</text></svg>">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: monospace; 
+            background: var(--bg); 
+            color: var(--fg); 
+            font-size: 16px; 
+            line-height: 1.2; 
+            padding: 20px; 
+            max-width: 600px; 
+            margin: 0 auto; 
+        }
+        :root { --bg: #fff; --fg: #000; --accent: #f00; }
+        [data-theme="dark"] { --bg: #000; --fg: #fff; --accent: #852bda; }
+        
+        h1 { font-size: 24px; margin-bottom: 20px; }
+        h2 { font-size: 18px; margin: 30px 0 10px 0; color: var(--accent); }
+        
+        .toggle { 
+            position: fixed; 
+            top: 20px; 
+            right: 20px; 
+            background: var(--fg); 
+            color: var(--bg); 
+            border: none; 
+            padding: 10px; 
+            cursor: pointer; 
+            font-family: monospace; 
+        }
+        
+        a { 
+            color: var(--fg); 
+            text-decoration: none; 
+            display: block; 
+            padding: 8px 0; 
+            border-bottom: 1px solid var(--fg); 
+        }
+        a:hover { background: var(--fg); color: var(--bg); }
+        
+        .link-group {
+            display: flex;
+            gap: 5px;
+            margin-bottom: 1px;
+        }
+        
+        .link-group a {
+            flex: 1;
+            text-align: center;
+            padding: 8px 5px;
+            border-bottom: 1px solid var(--fg);
+            border-right: 1px solid var(--fg);
+        }
+        
+        .link-group a:last-child, .link-group .copy-btn:last-child {
+            border-right: none;
+        }
+        
+        .copy-btn {
+            background: var(--accent);
+            color: var(--bg);
+            border: none;
+            padding: 8px 5px;
+            cursor: pointer;
+            font-family: monospace;
+            font-size: 16px;
+            flex: 1;
+            border-bottom: 1px solid var(--fg);
+            border-right: 1px solid var(--fg);
+        }
+        
+        .copy-btn:hover {
+            opacity: 0.8;
+        }
+        
+        .resume-title {
+            background: none;
+            border: none;
+            color: var(--fg);
+            padding: 8px 5px;
+            font-family: monospace;
+            font-size: 16px;
+            flex: 1;
+            text-align: center;
+            border-right: 1px solid var(--fg);
+            cursor: default;
+        }
+        
+        .desc { 
+            font-size: 14px; 
+            margin-top: 10px; 
+            opacity: 0.8; 
+        }
+    </style>
+</head>
+<body>
+    <button class="toggle" onclick="toggleTheme()">●</button>
+    
+    <h1>ARTHUR'S LINKS ⚡</h1>
+    
+    <h2>SOCIAL</h2>
+    <a href="https://twitter.com/afa7789">TWITTER</a>
+    <a href="https://github.com/afa7789">GITHUB</a>
+    <a href="https://www.linkedin.com/in/arthur-abeilice/">LINKEDIN</a>
+    <div class="link-group">
+        <a href="https://open.spotify.com/user/317rhy5dja5bzmsrokpomifvogw4">SPOTIFY</a>
+        <a href="https://open.spotify.com/user/317rhy5dja5bzmsrokpomifvogw4/playlists">PLAYLISTS</a>
+    </div>
+    <div class="link-group">
+        <a href="Resume.pdf" target="_blank" class="resume-title" style="text-decoration:none;">RESUME</a>
+        <a href="Resume.pdf" download>DOWNLOAD CV</a>
+        <button class="copy-btn" onclick="copyResumeLink()">COPY LINK</button>
+    </div>
+    
+    <h2>BITCOIN</h2>
+    <a href="https://afa7789.github.io/satsukashii/">SATSUKASHII</a>
+    <a href="https://afa7789.github.io/dca_btc_brutalist/">DCA BTC</a>
+    <a href="https://afa7789.github.io/SemMelhores/">SEM MELHORES - top 100 </a>
+    <a href="https://afa7789.github.io/all_the_money_in_the_world/">ALL THE MONEY IN THE WORLD</a>
+    
+    <h2>DEMOSCENE</h2>
+    <a href="https://afa7789.github.io/digital-rain/">DIGITAL RAIN</a>
+    <div class="link-group">
+        <a href="https://afa7789.github.io/ethereum-gradient-base64/">ETH GRADIENT</a>
+        <a href="https://github.com/afa7789/ethereum-gradient-base64/">REPO</a>
+        <a href="https://www.npmjs.com/package/ethereum-gradient-base64">NPM</a>
+    </div>
+    
+    <h2>PROJECTS</h2>
+    <div class="link-group">
+        <a href="https://afa7789.github.io/study_quiz/">SOLIDITY QUIZ</a>
+        <a href="https://github.com/afa7789/study_quiz/blob/master/content.md">REFERENCE</a>
+    </div>
+    <a href="https://github.com/afa7789/mnmncs">MNMNCS (.C)</a>
+    <a href="https://github.com/afa7789/PK_scrambled_eggs">STRING SCRAMBLER (GO)</a>
+    <a href="https://github.com/afa7789/pyscrapper">MARKETPLACE SCRAPPER (PYTHON)</a>
+    <a href="https://github.com/withtally/gov-deployer">DAO DEPLOYER (HARDHAT)</a>
+    
+    <h2>GYM</h2>
+    <div class="link-group">
+        <a href="https://afa7789.github.io/treino_academia/">WORKOUT TRACKER</a>
+        <a href="https://afa7789.github.io/ficha_academia_completa/">COMPLETE WORKOUT</a>
+    </div>
+    
+    <h2>PAPERS</h2>
+    <a href="https://www.researchgate.net/publication/332340958_Breaks_down_of_the_modeling_of_the_financial_market_with_addition_of_non-linear_terms_in_the_Ito_stochastic_process">FINANCIAL MODELING</a>
+    <a href="https://www.pspchv.com/Abstract-PJMMS/Abstract%20of%20PJMMS%20Volume%2023,%20Issue%202,%202018/3.%20Abstractof%20PJMMS%20Volume%2023,%20Issue%202,%202018,%20Pages%2093-103.pdf">STOCHASTIC DYNAMICS</a>
+    
+    <div class="desc">
+        PUBLISHED SCIENTIFIC PAPERS:<br>
+        LIMA, L. S.; OLIVEIRA, S. C.; ABEILICE, A. "Modelling Based in Stochastic Non-Linear Differential Equation for Price Dynamics." Pioneer Journal of Mathematics and Mathematical Sciences, v. 23, p. 93-103, 2018.<br><br>
+        LIMA, LEONARDO S.; OLIVEIRA, S.C.; ABEILICE, A.F.; MELGAÇO, J.H.C. "Breaks down of the modeling of the financial market with addition of non-linear terms in the Itô stochastic process." PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS, v. 526, p. 120932, 2019.
+    </div>
+    
+    <script>
+        function toggleTheme() {
+            const body = document.body;
+            const currentTheme = body.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            body.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+        }
+        
+        function copyResumeLink() {
+            const resumeUrl = window.location.origin + '/Resume.pdf';
+            navigator.clipboard.writeText(resumeUrl).then(function() {
+                const btn = document.querySelector('.copy-btn');
+                const originalText = btn.textContent;
+                btn.textContent = 'COPIED!';
+                setTimeout(() => {
+                    btn.textContent = originalText;
+                }, 2000);
+            }).catch(function() {
+                // Fallback for older browsers
+                const textArea = document.createElement('textarea');
+                textArea.value = resumeUrl;
+                document.body.appendChild(textArea);
+                textArea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textArea);
+                
+                const btn = document.querySelector('.copy-btn');
+                const originalText = btn.textContent;
+                btn.textContent = 'COPIED!';
+                setTimeout(() => {
+                    btn.textContent = originalText;
+                }, 2000);
+            });
+        }
+        
+        // Load saved theme
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        document.body.setAttribute('data-theme', savedTheme);
+    </script>
+</body>
+</html>

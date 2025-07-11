@@ -61,7 +61,7 @@ int main() { binary_to_text(); return 0; }
 
 🌐
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=afa7789.afa7789)](https://github.com/afa7789)
-[![Resume](https://img.shields.io/badge/-Download_Resume-2B3137?style=flat&logo=adobe-acrobat-reader)](https://github.com/afa7789/afa7789/raw/refs/heads/main/Resume.pdf)
+[![Resume](https://img.shields.io/badge/-Download_Resume-2B3137?style=flat&logo=adobe-acrobat-reader)](https://github.com/afa7789/afa7789/raw/refs/heads/main/docs/Resume.pdf)
 
 <!--
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-black?style=for-the-badge&logo=bitcoin)
