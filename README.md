@@ -1,5 +1,6 @@
 # 😎 Arthur de Freitas Abeilice :)
-**Computer Engineer | Blockchain Enthusiast | the last of my name**
+**Senior Software Engineer | Web3 & Blockchain Infrastructure | the last of my name**
+
 <!--
 ```c
 #include <stdio.h>
@@ -20,11 +21,10 @@ int main() { binary_to_text(); return 0; }
 ♍ 1996.  
 💻 Computer Engineer bachelor - [CEFET-MG](https://www.cefetmg.br).  
 🏠 Born at __Belo Horizonte - MG, Brazil__ 🇧🇷.  
-👨‍💻  Backend ~Full-Stack~ & Blockchain Developer.  
-🔭 Areas of interest: Hard issues, Smart contracts, Blockchain, Lightning, P2P.  
+👨‍💻 Senior Software Engineer (Backend & Web3).  
+🔭 Areas of interest: Hard issues, Smart contracts, Blockchain Infrastructure, Rust, Lightning, P2P.  
 👁️‍🗨️ Languages: Portuguese (native), English (fluent), Spanish.  
-💸 Previously worked at [Codificar](https://codificar.com.br), [Get It LLC](https://get.it), [Tally](https://tally.xyz), and [Gateway](https://gateway.fm).  
-💼 Now on board of [OpenZeppelin](openzeppelin.com) as Open Source Developer.  
+💸 Previously worked at [Codificar](https://codificar.com.br), [Get It LLC](https://get.it), [Tally](https://tally.xyz), [Gateway](https://gateway.fm), and [OpenZeppelin](https://openzeppelin.com).  
 🍕 Let's have some pizza slices?  
 
 <!-- 😎 Hobbies: 📖📚 Reading and 🍳🔪 Cooking (I know how to make Pizza). -->
@@ -37,10 +37,11 @@ int main() { binary_to_text(); return 0; }
 
 ### ⌨️ Programming Languages
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -63,18 +64,13 @@ int main() { binary_to_text(); return 0; }
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=afa7789.afa7789)](https://github.com/afa7789)
 [![Resume](https://img.shields.io/badge/-Download_Resume-2B3137?style=flat&logo=adobe-acrobat-reader)](https://github.com/afa7789/afa7789/raw/refs/heads/main/docs/Resume.pdf)
 
-<!--
-![Bitcoin](https://img.shields.io/badge/-Bitcoin-black?style=for-the-badge&logo=bitcoin)
-![Ethereum](https://img.shields.io/badge/-Ethereum-black?style=for-the-badge&logo=Ethereum)
-![Monero](https://img.shields.io/badge/-Monero-black?style=for-the-badge&logo=monero&logoColor=white)
--->
 ---------------------
 
 ### 🧿 Git Stats
 
-Don't notice, I've way more commits on companies private git.
+Don't notice, I've also more commits on private repos and git of companies. 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=afa7789&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afa7789&exclude_repo=meow-au-cefet-games,college-python-showcase,TP_JogosDigitais,Compiladores,laravue-login-template,cefet-games-classes&layout=compact)
 
-
+*Disclaimer: I do not download, run, or modify external codebases—no exceptions.*
