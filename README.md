@@ -70,7 +70,8 @@ int main() { binary_to_text(); return 0; }
 
 Don't notice, I've also more commits on private repos and git of companies. 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=afa7789&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afa7789&exclude_repo=meow-au-cefet-games,college-python-showcase,TP_JogosDigitais,Compiladores,laravue-login-template,cefet-games-classes&layout=compact)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=afa7789&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=afa7789&theme=tokyonight)
 
 *Disclaimer: I do not download, run, or modify external codebases—no exceptions.*
